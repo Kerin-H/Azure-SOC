@@ -32,9 +32,11 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
-<img width="542" alt="image" src="https://github.com/user-attachments/assets/298537d2-671a-45a9-a129-1bb6dc35509e" />
-<img width="533" alt="image" src="https://github.com/user-attachments/assets/192183fa-1c84-4fee-8808-99a65b126cd2" />
-<img width="511" alt="image" src="https://github.com/user-attachments/assets/d0a029e8-3897-4ef4-8535-e8dac390e93c" />
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/257c0614-d750-4961-97ab-a282528d712b" />
+
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/606d30ea-a05b-463a-b974-03ff73098df9" />
+
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/b5aa46dd-b328-40d2-8908-3ed96f6b3d31" />
 
 ## Metrics Before Hardening / Security Controls
 
